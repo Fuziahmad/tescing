@@ -1,1 +1,10 @@
-APA SIH BRO
+FOLDER A -> push repository
+git add *
+git commit -m "add text"
+git push
+
+FOLDER B -> clone repository
+git clone http://ajaddksfsddsd
+
+FOLDER B -> mengambil perubahan dari repository a
+git pull
